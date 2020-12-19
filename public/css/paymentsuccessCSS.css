@@ -1,0 +1,29 @@
+.payment-page {
+  margin-top: 90px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color: #5b3977;
+}
+.foto1 {
+  float: center;
+  display: block;
+  width: 250px;
+  margin-left: 350px;
+}
+.payment-page h1 {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  margin-left: 270px;
+}
+.payment-page p {
+  font-family: helvetica;
+  font-size: 17px;
+  color: white;
+  margin-left: 90px;
+}
+.tombolhome {
+  margin-left: 400px;
+  background-color: #cf97fd;
+}
